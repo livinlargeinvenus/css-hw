@@ -1,0 +1,42 @@
+body {
+  max-width: 500px;
+  margin: auto;
+  list-style-position: inside;
+  font-family: "Itim", cursive;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  color: #b99b6b;
+}
+
+.container {
+  text-align: center;
+}
+
+.list-align {
+  display: inline-block;
+  text-align: left;
+}
+
+.nav-align {
+  text-align: center;
+}
+
+.text-30 {
+  font-size: 30px;
+}
+
+.text-40 {
+  font-size: 40px;
+}
+
+.text-20 {
+  font-size: 20px;
+}
+
+.text-18 {
+  font-size: 18px;
+}
